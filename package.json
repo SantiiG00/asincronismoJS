@@ -1,4 +1,8 @@
 {
+
+  "scripts": {
+    "callback": "node ~/asincronismoJS/Clase3/Challenge.js"
+  },
   "dependencies": {
     "xmlhttprequest": "^1.8.0"
   }
